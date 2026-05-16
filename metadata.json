@@ -1,0 +1,8 @@
+{
+  "name": "練習生走花路…才怪！",
+  "description": "K-POP 萌系模擬經營遊戲主選單",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+    "seoul": { "traineeHeat": 98, "marketLevel": "SSR", "specialty": "K-POP 全才", "description": "全球 K-POP 核心樞紐，練習生品質極高但競爭激烈。" },
+    "tokyo": { "traineeHeat": 92, "marketLevel": "SR", "specialty": "團隊紀律", "description": "細膩的舞台演繹與高度的職人精神是這裡的特色。" },
+    "london": { "traineeHeat": 85, "marketLevel": "A", "specialty": "藝術創作", "description": "歐洲獨立音樂與街頭藝術的交匯點，偏好性格鮮明的練習生。" },
+    "la": { "traineeHeat": 95, "marketLevel": "S", "specialty": "舞台表現", "description": "西海岸的陽光與自由氛圍，孕育出具備強大表演感染力的天才。" },
+    "busan": { "traineeHeat": 88, "marketLevel": "A", "specialty": "高音主唱", "description": "海港城市的熱情，這裡出的歌手通常具備驚人的爆發力。" },
+    "sydney": { "traineeHeat": 82, "marketLevel": "B", "specialty": "清新形象", "description": "自然與活力的象徵，適合尋找風格清新的限定團成員。" },
+    "saopaulo": { "traineeHeat": 80, "marketLevel": "B", "specialty": "舞蹈力道", "description": "熱情如火的南美，這裡的練習生在節奏感上有著天賦優勢。" }
+}
